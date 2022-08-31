@@ -1,0 +1,26 @@
+.CardDeck {
+  text-align: center;
+}
+
+.CardDeck-gimme {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  margin: 0 10px;
+}
+
+.CardDeck-gimme:hover {
+  cursor: pointer;
+  background-color: #444;
+}
+
+.CardDeck-gimme:active,
+.CardDeck-gimme:focus {
+  outline: none;
+}
+
+.CardDeck-cardarea {
+  margin-top: 80px;
+}
